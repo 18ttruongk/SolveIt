@@ -16,7 +16,7 @@
         android:layout_marginEnd="11dp"
         android:layout_marginTop="16.35dp"
         android:background="@android:color/background_light"
-        android:text="You have not entered all of your coefficients!"
+        android:text="You have not entered all required coefficients!"
         android:textAlignment="center"
         android:textColor="?attr/actionModeSplitBackground"
         android:textSize="29sp" />
